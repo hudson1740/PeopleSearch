@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\bin\Debug\7-10-17.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\bin\Debug\7-10-17.exe
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\bin\Debug\7-10-17.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\bin\Debug\7-10-17.xml
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\obj\Debug\_7_10_17.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\obj\Debug\_7_10_17.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\obj\Debug\7-10-17.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\obj\Debug\7-10-17.exe
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\obj\Debug\7-10-17.xml
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\obj\Debug\7-10-17.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\bin\Debug\DarkSky theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\bin\Debug\Deimos Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\7-10-17\7-10-17\bin\Debug\Facebook Theme.dll
